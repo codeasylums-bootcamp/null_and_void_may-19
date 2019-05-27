@@ -23,7 +23,7 @@ This means that the server can push messages to clients. Whenever you write a ch
 
 # Team Members
 
-- [Himanhsu Pandey](http://github.com/himanhsu0597)
+- [Himanshu Pandey](http://github.com/himanhsu0597)
 - [Agni Bhattacharyya](http://github.com/PyAgni)
 - [Nikhil Anand](http://github.com/respawner8)
 - [Priyesh]() 
